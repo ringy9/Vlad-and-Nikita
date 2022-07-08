@@ -1,0 +1,46 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "9a7df2ff5082e152",
+            "max_int": "645c81348058b187",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Vlad and Nikita",
+            "photo": "https://i.postimg.cc/qvZCjwR9/unnamed.jpg",
+            "voice": "https://ringy9.github.io/Vlad-and-Nikita/audio.mp4",
+            "video": "https://ringy9.github.io/Vlad-and-Nikita/vlad2.mp4",
+            "stories": [
+               "https://i.postimg.cc/RCcK4wsH/hqdefault.jpg",
+"https://i.postimg.cc/6q08RLgb/image.jpg",
+"https://i.postimg.cc/Pqgvkq1y/image-1.jpg",
+"https://i.postimg.cc/SNk8sj3t/images-2020-06-11-T074141-525.jpg",
+"https://i.postimg.cc/zGfgC6JC/maxresdefault.jpg",
+"https://i.postimg.cc/qvZCjwR9/unnamed.jpg",
+"https://i.postimg.cc/QM9KP7KV/Vlad-Niki-hero-phone-800-x-1280.webp",
+"https://i.postimg.cc/Px1pfk4j/Vlad-and-Niki-Vashketov.webp",
+"https://i.postimg.cc/mkRct6XF/x1080.jpg"
+            ],
+            "wallpapers": [
+                "https://i.postimg.cc/RCcK4wsH/hqdefault.jpg",
+"https://i.postimg.cc/6q08RLgb/image.jpg",
+"https://i.postimg.cc/Pqgvkq1y/image-1.jpg",
+"https://i.postimg.cc/SNk8sj3t/images-2020-06-11-T074141-525.jpg",
+"https://i.postimg.cc/zGfgC6JC/maxresdefault.jpg",
+"https://i.postimg.cc/qvZCjwR9/unnamed.jpg",
+"https://i.postimg.cc/QM9KP7KV/Vlad-Niki-hero-phone-800-x-1280.webp",
+"https://i.postimg.cc/Px1pfk4j/Vlad-and-Niki-Vashketov.webp",
+"https://i.postimg.cc/mkRct6XF/x1080.jpg"
+            ]
+          
+        }
+    ]
+}
