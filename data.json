@@ -1,0 +1,43 @@
+{
+  "monetizationProvider": {
+    "SelectedAd": "applovin",
+    "admob": {
+      "Banner": "ca-app-pub-3940256099942544/6300978111",
+      "Inter": "ca-app-pub-3940256099942544/1033173712",
+      "Native": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "ad_manager": {
+      "Banner": "/6499/example/banner",
+      "Inter": "/6499/example/interstitial",
+      "Native": "/6499/example/native"
+    },
+    "applovin": {
+      "Banner": "adcf65c4b1372148",
+      "Inter": "4f608b3ad3c94780",
+      "Native": "ba44c1ee64cfbfbf"
+    },
+    "facebook": {
+      "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+    "Banner": "980300618",
+    "Inter": "980300617",
+    "Native": "980300619",
+    "yandex": {
+      "Banner": "00000000",
+      "Inter": "00000000",
+      "Native": "00000000"
+    },
+    "Unity": {
+      "Banner": "00000000",
+      "Inter": "00000000"
+    },
+    "pangle": {
+    },
+    "TestUnity": true,
+    "unityId": "4917831",
+    "IronKey": "4917831",
+    "pangle_id": "8085309"
+  }
+}
