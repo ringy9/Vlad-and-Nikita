@@ -1,6 +1,6 @@
 {
   "monetizationProvider": {
-    "SelectedAd": "admob",
+    "SelectedAd": "iron",
     "admob": {
       "Banner": "ca-app-pub-3940256099942544/6300978111",
       "Inter": "ca-app-pub-3940256099942544/1033173712",
@@ -37,7 +37,7 @@
     },
     "TestUnity": true,
     "unityId": "4917831",
-    "IronKey": "4917831",
+    "IronKey": "1851013e5",
     "pangle_id": "8085309"
   }
 }
