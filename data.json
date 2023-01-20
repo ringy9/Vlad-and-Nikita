@@ -1,6 +1,6 @@
 {
   "monetizationProvider": {
-    "SelectedAd": "applovin",
+    "SelectedAd": "unity",
     "admob": {
       "Banner": "ca-app-pub-3940256099942544/6300978111",
       "Inter": "ca-app-pub-3940256099942544/1033173712",
@@ -30,13 +30,13 @@
       "Native": "00000000"
     },
     "Unity": {
-      "Banner": "00000000",
-      "Inter": "00000000"
+      "Banner": "Interstitial_Android",
+      "Inter": "Interstitial_Android"
     },
     "pangle": {
     },
     "TestUnity": true,
-    "unityId": "4917831",
+    "unityId": "5126059",
     "IronKey": "1851013e5",
     "pangle_id": "8085309"
   }
