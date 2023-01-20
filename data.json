@@ -1,6 +1,6 @@
 {
   "monetizationProvider": {
-    "SelectedAd": "iron",
+    "SelectedAd": "facebook",
     "admob": {
       "Banner": "ca-app-pub-3940256099942544/6300978111",
       "Inter": "ca-app-pub-3940256099942544/1033173712",
@@ -17,9 +17,9 @@
       "Native": "ba44c1ee64cfbfbf"
     },
     "facebook": {
-      "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      "Banner": "1504430203406184_1551607905355080",
+      "Inter": "1504430203406184_1551607988688405",
+      "Native": "1504430203406184_1551608048688399"
     },
     "Banner": "980300618",
     "Inter": "980300617",
