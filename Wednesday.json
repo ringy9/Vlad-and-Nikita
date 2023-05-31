@@ -1,0 +1,51 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "0abf63126c88ec12",
+            "max_int": "a6988d850cc2a582",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Wednesday Addams",
+            "photo": "https://i.postimg.cc/ydHx127W/Jenna-Ortega-selfie-Wednesday-Addams-Tim-Burton-Netflix-Norge-tv-serie-730no-732x835.jpg",
+            "voice": "https://ringy9.github.io/amanda-adventurer/callamanda.wav",
+            "video": "https://ringy9.github.io/amanda-adventurer/videoamanda.m4v",
+            "stories": [
+"https://i.postimg.cc/KYL4ymSd/1669805244079-wednesdays1e200361601r.webp",
+"https://i.postimg.cc/MTmTvtG5/221120-wednesday-netflix-tease-sqb237.jpg",
+"https://i.postimg.cc/yYQDmfyr/49cb4471c51eb8e227170af7249d024d.jpg",
+"https://i.postimg.cc/7YWLG5qF/Getty-Images-1244840198.webp",
+"https://i.postimg.cc/sgMvwpnf/images.jpg",
+"https://i.postimg.cc/Y02SggGH/jenna-ortega-plays-wednesday-netflix-embed.webp",
+"https://i.postimg.cc/ydHx127W/Jenna-Ortega-selfie-Wednesday-Addams-Tim-Burton-Netflix-Norge-tv-serie-730no-732x835.jpg",
+"https://i.postimg.cc/t487fYf3/wedn678be026-94e7-400c-9ab5-4fdb42ed4493-ORIGINAL.webp",
+"https://i.postimg.cc/L5y8VXLZ/wednesday-dance-dress.webp",
+"https://i.postimg.cc/dQn3FWpt/Wednesday-Addams2022.jpg",
+"https://i.postimg.cc/BQ66nTf5/Wednesday-Teaser-Final-Flat-2021-02-17.jpg"
+               
+            ],
+            "wallpapers": [
+"https://i.postimg.cc/KYL4ymSd/1669805244079-wednesdays1e200361601r.webp",
+"https://i.postimg.cc/MTmTvtG5/221120-wednesday-netflix-tease-sqb237.jpg",
+"https://i.postimg.cc/yYQDmfyr/49cb4471c51eb8e227170af7249d024d.jpg",
+"https://i.postimg.cc/7YWLG5qF/Getty-Images-1244840198.webp",
+"https://i.postimg.cc/sgMvwpnf/images.jpg",
+"https://i.postimg.cc/Y02SggGH/jenna-ortega-plays-wednesday-netflix-embed.webp",
+"https://i.postimg.cc/ydHx127W/Jenna-Ortega-selfie-Wednesday-Addams-Tim-Burton-Netflix-Norge-tv-serie-730no-732x835.jpg",
+"https://i.postimg.cc/t487fYf3/wedn678be026-94e7-400c-9ab5-4fdb42ed4493-ORIGINAL.webp",
+"https://i.postimg.cc/L5y8VXLZ/wednesday-dance-dress.webp",
+"https://i.postimg.cc/dQn3FWpt/Wednesday-Addams2022.jpg",
+"https://i.postimg.cc/BQ66nTf5/Wednesday-Teaser-Final-Flat-2021-02-17.jpg"
+            ]
+          
+        }
+    ]
+}
