@@ -33,37 +33,37 @@
             "bg" : "#FB923C"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
@@ -128,13 +128,13 @@
     
     "data" : [
         {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
+            "url" : "https://play.google.com/store/apps/details?id=com.nijatza2021.download.tiktok.video.downloader",
+            "urlimg" : "https://i.postimg.cc/Xqg1HbHw/pp.png",
+            "name" : "Rami 21 ans",
             "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.gifer.com/BCyK.gif",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "img2" : "",
+            "part1" : "Rami",
+            "part2" : "klknlknklnlknlknlknlknlknlknklnlknlknlknlkkllknkn"
         },
         {
             "url" : "http://app.yacineapp.tv/",
