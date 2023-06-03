@@ -28,8 +28,8 @@
     "menu" : [
         {
             "active" : "true",
-            "name" : "Start",
-            "ico" : "",
+            "name" : "Guide Tips",
+            "ico" : "https://i.postimg.cc/8PdTX9My/paly.png",
             "bg" : "#FB923C"
         },
         {
